@@ -99,4 +99,4 @@ $ yarn lint
 - [CoinStats API](https://cryptocointracker.com/api/coinstats/all-endpoints) 
 
 
-Thanks to Alex Barker for the initial setup. Forked from https://github.com/six-edge/vue-highcharts-example
+Thanks to [Alex Barker](https://github.com/abarke/) for the initial setup. Forked from [vue-highcharts-example](https://github.com/abarke/vue-highcharts-example)
